@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "isspAtou",
+"companyName": "ISSP",
+"productName": "issp-v",
 "productVersion": "0.1",
 "dataUrl": "building.data.unityweb",
 "wasmCodeUrl": "building.wasm.code.unityweb",
